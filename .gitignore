@@ -13,3 +13,5 @@ Gemfile.lock
 beautiful-jekyll-theme-*.gem
 
 .vscode
+
+_posts/2000-01-01-image_stock.md
